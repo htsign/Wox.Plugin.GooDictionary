@@ -1,0 +1,12 @@
+﻿{
+    "ID": "E9D0161976FA4E3383B4DF5E23F4AA78",
+    "ActionKeyword": "goodic",
+    "Name": "GooDictionary",
+    "Description": "EN -> JA / JA -> EN",
+    "Author": "htsign",
+    "Version": "0.0.1",
+    "Language": "fsharp",
+    "Website": "https://github.com/htsign/Wox.Plugin.GooDictionary",
+    "IcoPath": "Images\\icon.png",
+    "ExecuteFileName": "Wox.Plugin.GooDictionary.dll"
+}
